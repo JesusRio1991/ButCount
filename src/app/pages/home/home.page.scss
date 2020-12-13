@@ -1,0 +1,36 @@
+
+.imagePlay{
+  max-width: 40%;
+}
+
+.imageIcons{
+  max-width: 15%;
+}
+
+.title{
+  font-family: Sofija !important;
+  font-size: 12vh;
+}
+
+ion-content{
+  --ion-background-color:#ff5044;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: space-evenly;
+  height: 100vh;
+  flex-flow: wrap;
+}
+
+#imagePlay{
+  text-align: center;
+}
+
+#icons{
+  display: flex;
+  justify-content: space-evenly;
+}
